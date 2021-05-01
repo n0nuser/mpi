@@ -7,7 +7,7 @@
 * [Sergio García González](https://github.com/AnOrdinaryUsser)
 * Pablo Jesús González Rubio
 
-## Nota Final: 
+## Nota Final: 9
 
 ## Número perfecto
 
